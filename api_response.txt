@@ -1,0 +1,34 @@
+URL: https://www.law.go.kr/DRF/lawSearch.do?target=prec&type=XML&display=100&page=1&search=2&query=%25EC%2582%25B0%25EC%2597%2585%25EC%259E%25AC%25ED%2595%25B4
+
+Headers: {'Date': 'Wed, 27 Nov 2024 08:18:02 GMT', 'Server': 'NIRS', 'Access-Control-Allow-Methods': 'POST, GET, OPTIONS, DELETE', 'Access-Control-Max-Age': '3600', 'Access-Control-Allow-Headers': 'x-requested-with', 'Access-Control-Allow-Origin': '*', 'Set-Cookie': 'elevisor_for_j2ee_uid=8jj9zk9bazf1t; Expires=Thu, 27-Nov-2025 08:18:02 GMT; Path=/, JSESSIONID=we6nE9JdpWieZ7Om6zqOc5F4.DRF1; Path=/; Secure', 'Cache-Control': 'no-cache', 'Pragma': 'no-cache', 'Content-Language': 'en-US', 'Content-Length': '1415', 'Keep-Alive': 'timeout=5, max=10000', 'Connection': 'Keep-Alive', 'Content-Type': 'text/html;charset=UTF-8'}
+
+Content:
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ko" xml:lang="ko">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">      
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">  
+<link rel="stylesheet" type="text/css" href="/DRF/css/common.css">
+<script type="text/javascript" src="/DRF/js/common/jquery/jquery.js"></script>
+	<script type="text/javascript" src="/DRF/js/common/jquery/jquery.form.js"></script>
+	<script type="text/javascript" src="/DRF/js/ext/adapter/ext/ext-base.js"></script>
+	<script type="text/javascript" src="/DRF/js/ext/ext-all.js"></script>
+	<script type="text/javascript" src="/DRF/js/common.js"></script>
+	<script type="text/javascript" src="/DRF/js/common-ex.js"></script>
+	<script type="text/javascript" src="/DRF/js/CookieUtil.js"></script>
+<title>국가법령정보 공동활용</title>
+</head> 
+<body> 
+<!-- //error500 -->
+<div id="error500">
+	<h1><a href="#"><img src="/DRF/images/topmenu/LSO_top_logo.gif" alt="국가법령정보 공동활용"></a></h1>
+	<div class="error_txt">
+		<h2>사용자인증에 실패하였습니다</h2>
+		<p>OpenAPI 사용자 인증에 실패하였습니다. 접속하신 해당 기관에 문의 바랍니다.</p>
+		<em></em>
+	</div>
+</div>
+<!-- error500// -->
+ 
+</body>
+</html>
